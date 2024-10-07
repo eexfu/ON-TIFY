@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_search_bar"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView" />
+
+    <group>
+        <item android:title="Tasks management">
+            <menu>
+                <item
+                    android:id="@+id/nav_new_task"
+                    android:title="New Task" />
+            </menu>
+        </item>
+    </group>
+
+    <group>
+        <item android:title="Group management">
+            <menu>
+                <item
+                    android:id="@+id/nav_new_group"
+                    android:title="New Group" />
+                <item
+                    android:id="@+id/nav_edit_group"
+                    android:title="Edit Group" />
+                <item
+                    android:id="@+id/nav_del_group"
+                    android:title="Delete Group" />
+            </menu>
+        </item>
+    </group>
+
+    <group>
+        <item android:title="Setting">
+            <menu>
+                <item
+                    android:id="@+id/color_code"
+                    android:title="Color Code" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="Logout" />
+                <item
+                    android:id="@+id/nav_delete_acc"
+                    android:title="Delete Account" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

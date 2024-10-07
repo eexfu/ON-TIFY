@@ -1,0 +1,166 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="be.kuleuven.gt.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:5:5-67
+11-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\10628\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="be.kuleuven.gt.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\10628\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\10628\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="be.kuleuven.gt.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\10628\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\10628\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:7:5-71:19
+20        android:allowBackup="true"
+20-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] C:\Users\10628\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:9:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:10:9-54
+26        android:icon="@drawable/logoapp"
+26-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:11:9-41
+27        android:label="@string/app_name"
+27-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:12:9-41
+28        android:supportsRtl="true"
+28-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:13:9-35
+29        android:testOnly="true"
+30        android:theme="@style/Theme.MyApplication" >
+30-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:14:9-51
+31        <activity
+31-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:16:9-18:40
+32            android:name="be.kuleuven.gt.myapplication.task_activities.PreviewEditTask"
+32-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:17:13-60
+33            android:exported="false" />
+33-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:18:13-37
+34        <activity
+34-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:19:9-21:40
+35            android:name="be.kuleuven.gt.myapplication.task_activities.EditTask"
+35-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:20:13-53
+36            android:exported="false" />
+36-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:21:13-37
+37        <activity
+37-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:22:9-24:40
+38            android:name="be.kuleuven.gt.myapplication.main.SelectActivity"
+38-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:23:13-48
+39            android:exported="false" />
+39-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:24:13-37
+40        <activity
+40-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:25:9-27:40
+41            android:name="be.kuleuven.gt.myapplication.login_signin.SignIn"
+41-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:26:13-48
+42            android:exported="false" /> <!-- <activity -->
+42-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:27:13-37
+43        <!-- android:name=".DeleteGroup" -->
+44        <!-- android:theme="@style/MyActivityStyle" /> -->
+45        <!-- <activity -->
+46        <!-- android:name=".NewTask" -->
+47        <!-- android:theme="@style/MyActivityStyle" /> -->
+48        <!-- <activity -->
+49        <!-- android:name=".NewGroup" -->
+50        <!-- android:theme="@style/MyActivityStyle" /> -->
+51        <activity
+51-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:36:9-44:20
+52            android:name="be.kuleuven.gt.myapplication.login_signin.Login"
+52-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:37:13-47
+53            android:exported="true" >
+53-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:38:13-36
+54            <intent-filter>
+54-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:39:13-43:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:40:17-69
+55-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:40:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:42:17-77
+57-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:42:27-74
+58            </intent-filter>
+59        </activity>
+60        <activity
+60-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:45:9-47:40
+61            android:name="be.kuleuven.gt.myapplication.group_activities.DeleteGroup"
+61-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:46:13-57
+62            android:exported="false" />
+62-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:47:13-37
+63        <activity
+63-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:48:9-50:40
+64            android:name="be.kuleuven.gt.myapplication.task_activities.NewTask"
+64-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:49:13-52
+65            android:exported="false" />
+65-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:50:13-37
+66        <activity
+66-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:51:9-53:40
+67            android:name="be.kuleuven.gt.myapplication.main.ColorCode"
+67-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:52:13-43
+68            android:exported="false" />
+68-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:53:13-37
+69        <activity
+69-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:54:9-56:40
+70            android:name="be.kuleuven.gt.myapplication.group_activities.NewGroup"
+70-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:55:13-54
+71            android:exported="false" />
+71-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:56:13-37
+72        <activity
+72-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:57:9-59:40
+73            android:name="be.kuleuven.gt.myapplication.group_activities.EditGroup"
+73-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:58:13-55
+74            android:exported="false" />
+74-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:59:13-37
+75        <activity
+75-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:60:9-70:20
+76            android:name="be.kuleuven.gt.myapplication.main.MainActivity"
+76-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:61:13-46
+77            android:exported="true" >
+77-->G:\temp\Ku Leuven\Programming Techniques\Lab Project\MyApplication\app\src\main\AndroidManifest.xml:62:13-36
+78
+79            <!-- <intent-filter> -->
+80            <!-- <action android:name="android.intent.action.MAIN" /> -->
+81
+82
+83            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+84            <!-- </intent-filter> -->
+85        </activity>
+86
+87        <provider
+87-->[androidx.emoji2:emoji2:1.2.0] C:\Users\10628\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+88            android:name="androidx.startup.InitializationProvider"
+88-->[androidx.emoji2:emoji2:1.2.0] C:\Users\10628\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+89            android:authorities="be.kuleuven.gt.myapplication.androidx-startup"
+89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\10628\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+90            android:exported="false" >
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\10628\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+91            <meta-data
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\10628\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+92                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\10628\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+93                android:value="androidx.startup" />
+93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\10628\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+94            <meta-data
+94-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\10628\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+95                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+95-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\10628\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+96                android:value="androidx.startup" />
+96-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\10628\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+97        </provider>
+98    </application>
+99
+100</manifest>

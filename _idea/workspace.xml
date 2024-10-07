@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="067e0f2d-3a4a-4081-a31b-bf6d0d4065bc" name="Changes" comment="clean code">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\10628\.android\avd\Pixel_6_Pro_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="My Application" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="My Application" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="My Application" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="My Application" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2OKHVhn3CJjWOHgwX9aoPQGPd6g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/temp/Ku Leuven/Programming Techniques/Lab Project/Lab 7-12/DBConnection&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Build Variants&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.158735530">
+      <recent name="be.kuleuven.gt.myapplication.model" />
+    </key>
+    <key name="android.template.-1977890147">
+      <recent name="be.kuleuven.gt.myapplication.model" />
+    </key>
+    <key name="android.template.-1705123615">
+      <recent name="be.kuleuven.gt.myapplication" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="be.kuleuven.gt.myapplication" />
+    </key>
+    <key name="android.template.1796445461">
+      <recent name="be.kuleuven.gt.myapplication" />
+    </key>
+    <key name="android.template.-1837986232">
+      <recent name="be.kuleuven.gt.myapplication" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="My_Application.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="067e0f2d-3a4a-4081-a31b-bf6d0d4065bc" name="Changes" comment="" />
+      <created>1681302378280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681302378280</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Files">
+      <created>1681734197120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681734197120</updated>
+    </task>
+    <task id="LOCAL-00002" summary="debug for button at delete group and new group">
+      <created>1681739329559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681739329559</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change the style of new task, new group and delete group">
+      <created>1681742896751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681742896751</updated>
+    </task>
+    <task id="LOCAL-00004" summary="auto login next time">
+      <created>1681806483001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681806483001</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finish auto login next time and register in local device(not send account information to database yet)">
+      <created>1681807563457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681807563457</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add Edit Group at AndroidManifest.xml">
+      <created>1681895129423</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681895129423</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1. add group spinner at activity_main.xml&#10;2. open a edit activity when we click a task&#10;3. popup a window when we set notification&#10;4. make toolbar unavailable at activity_select_activity.xml&#10;5. only select one task at the same time at activity_select_activity.xml&#10;6. checked if done">
+      <created>1682253999375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682253999375</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sending account to database and Retrieving account back">
+      <created>1682344040701</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682344040702</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finish sending data to database in NewTask.java and ConfirmationNewTask.java">
+      <created>1682346226983</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682346226983</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Finish getting data from database in MainActivity.java">
+      <created>1682348492607</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682348492607</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add accountId when we new a task">
+      <created>1682358581607</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682358581607</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix the bug of sending the correct accountId of a newTask">
+      <created>1682372720227</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682372720227</updated>
+    </task>
+    <task id="LOCAL-00013" summary="nothing change">
+      <created>1682374557430</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682374557430</updated>
+    </task>
+    <task id="LOCAL-00014" summary="complete the part of new group and display spinner_group in the MainActivity.java">
+      <created>1682872709730</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682872709730</updated>
+    </task>
+    <task id="LOCAL-00015" summary="complete the function of edit group">
+      <created>1682873834406</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682873834406</updated>
+    </task>
+    <task id="LOCAL-00016" summary="finish the function of logout">
+      <created>1682876124197</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682876124198</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fix the bug of edit group and complete the function of delete group">
+      <created>1682879415888</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682879415888</updated>
+    </task>
+    <task id="LOCAL-00018" summary="get group id by account id and group name">
+      <created>1683403828119</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683403828119</updated>
+    </task>
+    <task id="LOCAL-00019" summary="new task with group id">
+      <created>1683404771694</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1683404771694</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fix the bug of delay one selected group and the bug of not able to new task">
+      <created>1683466551856</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1683466551856</updated>
+    </task>
+    <task id="LOCAL-00021" summary="finish the function of edit and delete tasks">
+      <created>1683481329873</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1683481329873</updated>
+    </task>
+    <task id="LOCAL-00022" summary="change color by the deadline of task">
+      <created>1683549615706</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1683549615706</updated>
+    </task>
+    <task id="LOCAL-00023" summary="change some code into lambda expression">
+      <created>1683551015160</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1683551015160</updated>
+    </task>
+    <task id="LOCAL-00024" summary="not allow to add same task name at the same group">
+      <created>1683555279689</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1683555279689</updated>
+    </task>
+    <task id="LOCAL-00025" summary="change the hint of deadline">
+      <created>1683555654547</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1683555654547</updated>
+    </task>
+    <task id="LOCAL-00026" summary="complete the function of search bar">
+      <created>1683562139552</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1683562139552</updated>
+    </task>
+    <task id="LOCAL-00027" summary="clear done task from list">
+      <created>1683564392235</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1683564392235</updated>
+    </task>
+    <task id="LOCAL-00028" summary="1. fix the problem of space character in group name and task name&#10;2. add a PreviewEditTask.java between EditTask and MainActivity&#10;3. change the app name and logo&#10;4. fix the pin function">
+      <created>1683905000419</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1683905000419</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fix the bug of unique task name">
+      <created>1683998057957</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1683998057957</updated>
+    </task>
+    <task id="LOCAL-00030" summary="create noGroup when we sign up for a account">
+      <created>1684014504661</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1684014504661</updated>
+    </task>
+    <task id="LOCAL-00031" summary="comment the notification at edit task and update some Toast">
+      <created>1684156281749</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1684156281749</updated>
+    </task>
+    <task id="LOCAL-00032" summary="some changes">
+      <created>1684157394589</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1684157394589</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix the bug of Login.java and add a dialog into delete account">
+      <created>1684163539295</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1684163539295</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fix the bug of Login.java and add a dialog into delete account">
+      <created>1684164245163</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1684164245163</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add a dialog for delete account">
+      <created>1684164481657</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1684164481657</updated>
+    </task>
+    <task id="LOCAL-00036" summary="1. add some hint into NewGroup, EditGroup and DeleteGroup,&#10;2. complete the finish functions in SelectActivity and PreviewEditTask&#10;3. fix the bug of DeleteGroup">
+      <created>1684170629005</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1684170629005</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix the bug of unique account name">
+      <created>1684221775669</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1684221775669</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix a bug of getting null object from groupMap">
+      <created>1684261917387</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1684261917387</updated>
+    </task>
+    <task id="LOCAL-00039" summary="complete the datepicker display in EditTask and update some ui">
+      <created>1684662817939</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1684662817939</updated>
+    </task>
+    <task id="LOCAL-00040" summary="clean">
+      <created>1684669688105</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1684669688105</updated>
+    </task>
+    <task id="LOCAL-00041" summary="change the logic of firstIn_sp">
+      <created>1684685855290</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1684685855290</updated>
+    </task>
+    <task id="LOCAL-00042" summary="change the logic of firstIn_sp">
+      <created>1684687384989</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1684687384989</updated>
+    </task>
+    <task id="LOCAL-00043" summary="change the logic of firstIn_sp again">
+      <created>1684760938500</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1684760938500</updated>
+    </task>
+    <task id="LOCAL-00044" summary="change the logic of firstIn_sp third time">
+      <created>1684762503851</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1684762503851</updated>
+    </task>
+    <task id="LOCAL-00045" summary="delete notification of task">
+      <created>1684767011974</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1684767011974</updated>
+    </task>
+    <task id="LOCAL-00046" summary="clean code">
+      <created>1685017586250</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1685017586250</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish the function of edit and delete tasks" />
+    <MESSAGE value="change color by the deadline of task" />
+    <MESSAGE value="change some code into lambda expression" />
+    <MESSAGE value="cannot add same task name at the same group" />
+    <MESSAGE value="not allow to add same task name at the same group" />
+    <MESSAGE value="change the hint of deadline" />
+    <MESSAGE value="complete the function of search bar" />
+    <MESSAGE value="clear done task from list" />
+    <MESSAGE value="1. fix the problem of space character in group name and task name&#10;2. add a PreviewEditTask.java between EditTask and MainActivity&#10;3. change the app name and logo&#10;4. fix the pin function" />
+    <MESSAGE value="fix the bug of unique task name" />
+    <MESSAGE value="create noGroup when we sign up for a account" />
+    <MESSAGE value="comment the notification at edit task and update some Toast" />
+    <MESSAGE value="some changes" />
+    <MESSAGE value="fix the bug of Login.java and add a dialog into delete account" />
+    <MESSAGE value="add a dialog for delete account" />
+    <MESSAGE value="1. add some hint into NewGroup, EditGroup and DeleteGroup,&#10;2. complete the finish functions in SelectActivity and PreviewEditTask&#10;3. fix the bug of DeleteGroup" />
+    <MESSAGE value="fix the bug of unique account name" />
+    <MESSAGE value="fix a bug of getting null object from groupMap" />
+    <MESSAGE value="complete the datepicker display in EditTask and update some ui" />
+    <MESSAGE value="clean" />
+    <MESSAGE value="change the logic of firstIn_sp" />
+    <MESSAGE value="change the logic of firstIn_sp again" />
+    <MESSAGE value="change the logic of firstIn_sp third time" />
+    <MESSAGE value="delete notification of task" />
+    <MESSAGE value="clean code" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean code" />
+  </component>
+</project>

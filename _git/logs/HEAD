@@ -1,0 +1,71 @@
+0000000000000000000000000000000000000000 0f064e64b20b06771aa1c9466c0ed529669ed26a 10628 <xun.fu@student.kuleuven.be> 1681734196 +0200	commit (initial): Files
+0f064e64b20b06771aa1c9466c0ed529669ed26a 78f8d0dc70c03e3b5ca3642f8f8b63870e7cf65b 10628 <xun.fu@student.kuleuven.be> 1681739329 +0200	commit: debug for button at delete group and new group
+78f8d0dc70c03e3b5ca3642f8f8b63870e7cf65b 533b8486c93efe1b041fd87e64b3128504e9724c 10628 <xun.fu@student.kuleuven.be> 1681742896 +0200	commit: change the style of new task, new group and delete group
+533b8486c93efe1b041fd87e64b3128504e9724c 45ecfdef1bc7bf720b80fae9f63cbafb1a8b0e27 10628 <xun.fu@student.kuleuven.be> 1681744524 +0200	merge origin/master: Fast-forward
+45ecfdef1bc7bf720b80fae9f63cbafb1a8b0e27 fe32e41a71f4d99062329b1ba674a72f1d8f62a7 10628 <xun.fu@student.kuleuven.be> 1681748301 +0200	merge origin/master: Fast-forward
+fe32e41a71f4d99062329b1ba674a72f1d8f62a7 84c39fe148fb9c6a2fd96f36eb0105028f355cc4 10628 <xun.fu@student.kuleuven.be> 1681806482 +0200	commit: auto login next time
+84c39fe148fb9c6a2fd96f36eb0105028f355cc4 1bcbf0a44afedc6632e77de4f099e78fc6b4a432 10628 <xun.fu@student.kuleuven.be> 1681806491 +0200	merge origin/master: Merge made by the 'ort' strategy.
+1bcbf0a44afedc6632e77de4f099e78fc6b4a432 c2a8fd79dd6e7898afad7a019562be85091bea50 10628 <xun.fu@student.kuleuven.be> 1681807563 +0200	commit: finish auto login next time and register in local device(not send account information to database yet)
+c2a8fd79dd6e7898afad7a019562be85091bea50 0a776f649b0e20f0a27b390b01848d08a051035a 10628 <xun.fu@student.kuleuven.be> 1681894696 +0200	merge origin/master: Fast-forward
+0a776f649b0e20f0a27b390b01848d08a051035a 33e9fdf62f676b77aa9354854974bfb4d9b6ae17 10628 <xun.fu@student.kuleuven.be> 1681895129 +0200	commit: add Edit Group at AndroidManifest.xml
+33e9fdf62f676b77aa9354854974bfb4d9b6ae17 cc590089798938504a27ad23d7c8efe3f4f2dd58 10628 <xun.fu@student.kuleuven.be> 1682240792 +0200	merge origin/master: Fast-forward
+cc590089798938504a27ad23d7c8efe3f4f2dd58 ca4f746f7ddb4c47870b0e2ddecab0bd8e92a588 10628 <xun.fu@student.kuleuven.be> 1682253998 +0200	commit: 1. add group spinner at activity_main.xml
+ca4f746f7ddb4c47870b0e2ddecab0bd8e92a588 04c9b17e9e0bb68eef78792f6899971f5897f795 10628 <xun.fu@student.kuleuven.be> 1682338755 +0200	merge origin/master: Fast-forward
+04c9b17e9e0bb68eef78792f6899971f5897f795 274eb85f1fe3a91acfb25b51354db51aa207305e 10628 <xun.fu@student.kuleuven.be> 1682342809 +0200	merge origin/master: Fast-forward
+274eb85f1fe3a91acfb25b51354db51aa207305e 63494914a2722878f3067d8e7e19c3deff0586c8 10628 <xun.fu@student.kuleuven.be> 1682344040 +0200	commit: Sending account to database and Retrieving account back
+63494914a2722878f3067d8e7e19c3deff0586c8 9e147ba8c0a8745fc742ea6a2594dd18739cc348 10628 <xun.fu@student.kuleuven.be> 1682344325 +0200	merge origin/master: Fast-forward
+9e147ba8c0a8745fc742ea6a2594dd18739cc348 dd930b0a06ea38e8688cc9e33809894301ca7073 10628 <xun.fu@student.kuleuven.be> 1682346226 +0200	commit: Finish sending data to database in NewTask.java and ConfirmationNewTask.java
+dd930b0a06ea38e8688cc9e33809894301ca7073 292787e5ad5690a86ffa21dffc0973e1bc2e907f 10628 <xun.fu@student.kuleuven.be> 1682348492 +0200	commit: Finish getting data from database in MainActivity.java
+292787e5ad5690a86ffa21dffc0973e1bc2e907f e6a19156f165ad0a18b7d9e167bd57b68bd762c8 10628 <xun.fu@student.kuleuven.be> 1682358581 +0200	commit: add accountId when we new a task
+e6a19156f165ad0a18b7d9e167bd57b68bd762c8 e99c95f163711563da9e52015e9906aa57cbce7b 10628 <xun.fu@student.kuleuven.be> 1682372720 +0200	commit: fix the bug of sending the correct accountId of a newTask
+e99c95f163711563da9e52015e9906aa57cbce7b d9b433865636db502c36cf11ff5da46bb8cb3ea9 10628 <xun.fu@student.kuleuven.be> 1682374557 +0200	commit: nothing change
+d9b433865636db502c36cf11ff5da46bb8cb3ea9 59f7a5a21e1f4e6daffcc8241e1e95652ca2f3c2 10628 <xun.fu@student.kuleuven.be> 1682533125 +0200	merge origin/master: Merge made by the 'ort' strategy.
+59f7a5a21e1f4e6daffcc8241e1e95652ca2f3c2 97ce7608a9c8082881ffb646b5175918b761223c 10628 <xun.fu@student.kuleuven.be> 1682872709 +0200	commit: complete the part of new group and display spinner_group in the MainActivity.java
+97ce7608a9c8082881ffb646b5175918b761223c 9f5a14233c15d609f6357240560ddaee963de1d0 10628 <xun.fu@student.kuleuven.be> 1682873834 +0200	commit: complete the function of edit group
+9f5a14233c15d609f6357240560ddaee963de1d0 808f0abeda82c0e49bbdcdc71ae07f35fcd9ccdd 10628 <xun.fu@student.kuleuven.be> 1682876124 +0200	commit: finish the function of logout
+808f0abeda82c0e49bbdcdc71ae07f35fcd9ccdd 6110b8c55d010d320ee53b61af8694b2fc609116 10628 <xun.fu@student.kuleuven.be> 1682879415 +0200	commit: fix the bug of edit group and complete the function of delete group
+6110b8c55d010d320ee53b61af8694b2fc609116 96cdf1f2c8ddf87e14d820834f37658fe2ae9638 10628 <xun.fu@student.kuleuven.be> 1683401138 +0200	merge origin/master: Fast-forward
+96cdf1f2c8ddf87e14d820834f37658fe2ae9638 d433c35c9a1923861f6654e0ce26524f4a055403 10628 <xun.fu@student.kuleuven.be> 1683403828 +0200	commit: get group id by account id and group name
+d433c35c9a1923861f6654e0ce26524f4a055403 d05060ca9e277bc8b6dd86eeab3dd5198321a253 10628 <xun.fu@student.kuleuven.be> 1683404771 +0200	commit: new task with group id
+d05060ca9e277bc8b6dd86eeab3dd5198321a253 7e72132c9e6790655ad89fc431b14a96bf52792a 10628 <xun.fu@student.kuleuven.be> 1683464168 +0200	merge origin/master: Fast-forward
+7e72132c9e6790655ad89fc431b14a96bf52792a f9f285aa2f3c3f80caa9090be1128eee3dd2faeb 10628 <xun.fu@student.kuleuven.be> 1683466551 +0200	commit: fix the bug of delay one selected group and the bug of not able to new task
+f9f285aa2f3c3f80caa9090be1128eee3dd2faeb ed7814b99181e2aff109199090124e9ebf338c13 10628 <xun.fu@student.kuleuven.be> 1683481329 +0200	commit: finish the function of edit and delete tasks
+ed7814b99181e2aff109199090124e9ebf338c13 db3902be9b2a1301545bfc3e3af0a9f7391642a6 10628 <xun.fu@student.kuleuven.be> 1683548822 +0200	merge origin/master: Fast-forward
+db3902be9b2a1301545bfc3e3af0a9f7391642a6 14abd1453788ebf3dac6bb737d4537873ebbcdfb 10628 <xun.fu@student.kuleuven.be> 1683549615 +0200	commit: change color by the deadline of task
+14abd1453788ebf3dac6bb737d4537873ebbcdfb ceae41dcb0ae080a6301c94f11ca7914b33bf89b 10628 <xun.fu@student.kuleuven.be> 1683551015 +0200	commit: change some code into lambda expression
+ceae41dcb0ae080a6301c94f11ca7914b33bf89b e3599196193283856bdd8d44044ad0b8d163cabc 10628 <xun.fu@student.kuleuven.be> 1683555279 +0200	commit: not allow to add same task name at the same group
+e3599196193283856bdd8d44044ad0b8d163cabc 22208a3e8ea7605189df1f211dd5d3ee1835a653 10628 <xun.fu@student.kuleuven.be> 1683555654 +0200	commit: change the hint of deadline
+22208a3e8ea7605189df1f211dd5d3ee1835a653 029867d17182db0df1cbe11681bae7b9681fc69a 10628 <xun.fu@student.kuleuven.be> 1683562139 +0200	commit: complete the function of search bar
+029867d17182db0df1cbe11681bae7b9681fc69a 854d21f2cbd84350f70d833edb6d93ff4b30c6ab 10628 <xun.fu@student.kuleuven.be> 1683562269 +0200	merge origin/master: Fast-forward
+854d21f2cbd84350f70d833edb6d93ff4b30c6ab 3ca8a17f1e420114295ef93a131daf070ac35067 10628 <xun.fu@student.kuleuven.be> 1683564392 +0200	commit: clear done task from list
+3ca8a17f1e420114295ef93a131daf070ac35067 596d7dd41a665d8a25ebdf6eac6af29b0c5ac7f7 10628 <xun.fu@student.kuleuven.be> 1683905000 +0200	commit: 1. fix the problem of space character in group name and task name
+596d7dd41a665d8a25ebdf6eac6af29b0c5ac7f7 f38f43962d96ebeb99a1894a464873a9a254dc21 10628 <xun.fu@student.kuleuven.be> 1683994867 +0200	merge origin/master: Fast-forward
+f38f43962d96ebeb99a1894a464873a9a254dc21 38f411306a5c98e1211664e1c305dc6b15968232 10628 <xun.fu@student.kuleuven.be> 1683998057 +0200	commit: fix the bug of unique task name
+38f411306a5c98e1211664e1c305dc6b15968232 0e99e52299b4b24a9126cda6801138d0298ba0a3 10628 <xun.fu@student.kuleuven.be> 1684013446 +0200	merge origin/master: Fast-forward
+0e99e52299b4b24a9126cda6801138d0298ba0a3 37aa87b62c4ad4bad6c1707a1d030c81997325b8 10628 <xun.fu@student.kuleuven.be> 1684014504 +0200	commit: create noGroup when we sign up for a account
+37aa87b62c4ad4bad6c1707a1d030c81997325b8 6b46c596461e4b4c21dc85528888a82646a3042b 10628 <xun.fu@student.kuleuven.be> 1684018259 +0200	merge origin/master: Fast-forward
+6b46c596461e4b4c21dc85528888a82646a3042b caad58d8e5dec73626ccb0f7b184d8f6839ec7d8 10628 <xun.fu@student.kuleuven.be> 1684150687 +0200	merge origin/master: Fast-forward
+caad58d8e5dec73626ccb0f7b184d8f6839ec7d8 e548559fa953d600761285bc208c2c210e0f1909 10628 <xun.fu@student.kuleuven.be> 1684156281 +0200	commit: comment the notification at edit task and update some Toast
+e548559fa953d600761285bc208c2c210e0f1909 c8e8c2c02882e468a4431156a1827fc375c654b5 10628 <xun.fu@student.kuleuven.be> 1684157394 +0200	commit: some changes
+c8e8c2c02882e468a4431156a1827fc375c654b5 f71b7fc143c46bc7e57a89127830df5a0c886fa0 10628 <xun.fu@student.kuleuven.be> 1684162684 +0200	merge origin/master: Fast-forward
+f71b7fc143c46bc7e57a89127830df5a0c886fa0 8553add95383009fb4022cfb9030cf233b427bd7 10628 <xun.fu@student.kuleuven.be> 1684163539 +0200	commit: fix the bug of Login.java and add a dialog into delete account
+8553add95383009fb4022cfb9030cf233b427bd7 98efa69de1174df024ca93a31a4e925ab4e6347f 10628 <xun.fu@student.kuleuven.be> 1684164245 +0200	commit: fix the bug of Login.java and add a dialog into delete account
+98efa69de1174df024ca93a31a4e925ab4e6347f c54a96bdf8c99d9bd4efe28a44ab092b87d0c183 10628 <xun.fu@student.kuleuven.be> 1684164458 +0200	merge origin/master: Fast-forward
+c54a96bdf8c99d9bd4efe28a44ab092b87d0c183 64f5bab248785e7bf1e03b7c699f70bcf07f732a 10628 <xun.fu@student.kuleuven.be> 1684164481 +0200	commit: add a dialog for delete account
+64f5bab248785e7bf1e03b7c699f70bcf07f732a 47a24051cef22d6d24e83815259007b572a53675 10628 <xun.fu@student.kuleuven.be> 1684167154 +0200	merge origin/master: Fast-forward
+47a24051cef22d6d24e83815259007b572a53675 ae0199373a9d28bb90da315b7f1a322912a8afa6 10628 <xun.fu@student.kuleuven.be> 1684170628 +0200	commit: 1. add some hint into NewGroup, EditGroup and DeleteGroup,
+ae0199373a9d28bb90da315b7f1a322912a8afa6 bd26aea56be3b08acf1c8157d069f2b82086cf2a 10628 <xun.fu@student.kuleuven.be> 1684221119 +0200	merge origin/master: Fast-forward
+bd26aea56be3b08acf1c8157d069f2b82086cf2a b3fd33d63ae2d87afddff4e8042ef92a8d5f3f48 10628 <xun.fu@student.kuleuven.be> 1684221775 +0200	commit: fix the bug of unique account name
+b3fd33d63ae2d87afddff4e8042ef92a8d5f3f48 c865aefa89cd6bd8bab96217f44f6002d9fa59eb 10628 <xun.fu@student.kuleuven.be> 1684261917 +0200	commit: fix a bug of getting null object from groupMap
+c865aefa89cd6bd8bab96217f44f6002d9fa59eb e554c21d6a3f776b33f0336d54b121abc841cc1f 10628 <xun.fu@student.kuleuven.be> 1684659858 +0200	merge origin/master: Fast-forward
+e554c21d6a3f776b33f0336d54b121abc841cc1f b7e5835ba18a7efcd34c597262e92169ad4467ce 10628 <xun.fu@student.kuleuven.be> 1684662817 +0200	commit: complete the datepicker display in EditTask and update some ui
+b7e5835ba18a7efcd34c597262e92169ad4467ce e53fcb6915f4d0e42d28c21f582a51851db442de 10628 <xun.fu@student.kuleuven.be> 1684669687 +0200	commit: clean
+e53fcb6915f4d0e42d28c21f582a51851db442de 7beaf6674cfcf83f0f6c329c4a4a2ce5fb2cc7b6 10628 <xun.fu@student.kuleuven.be> 1684685855 +0200	commit: change the logic of firstIn_sp
+7beaf6674cfcf83f0f6c329c4a4a2ce5fb2cc7b6 c6f04a9e0886652428851911dd658e34f2b62794 10628 <xun.fu@student.kuleuven.be> 1684686477 +0200	commit (merge): Merge remote-tracking branch 'origin/master'
+c6f04a9e0886652428851911dd658e34f2b62794 9dcb42d6e0cd20092897922641a8203a191d51e3 10628 <xun.fu@student.kuleuven.be> 1684687384 +0200	commit: change the logic of firstIn_sp
+9dcb42d6e0cd20092897922641a8203a191d51e3 af87cba044fb9840d3425de91b5afdc9349a3b85 10628 <xun.fu@student.kuleuven.be> 1684760938 +0200	commit: change the logic of firstIn_sp again
+af87cba044fb9840d3425de91b5afdc9349a3b85 0c8ce41477ceee8a87c3d6c964cd0676ef0a0a87 10628 <xun.fu@student.kuleuven.be> 1684762503 +0200	commit: change the logic of firstIn_sp third time
+0c8ce41477ceee8a87c3d6c964cd0676ef0a0a87 8e56bb83901693cf62f0f723eac899a4399bf6f5 10628 <xun.fu@student.kuleuven.be> 1684766494 +0200	merge origin/master: Fast-forward
+8e56bb83901693cf62f0f723eac899a4399bf6f5 18cd1d1304e0c5a29eea7352f78f9fff00b5824b 10628 <xun.fu@student.kuleuven.be> 1684767011 +0200	commit: delete notification of task
+18cd1d1304e0c5a29eea7352f78f9fff00b5824b a4d4117ae47b20674990c37cdef722773e857a7e 10628 <xun.fu@student.kuleuven.be> 1684998786 +0200	merge origin/master: Fast-forward
+a4d4117ae47b20674990c37cdef722773e857a7e 4d6dd2ba0c132c3e7507f8e256d8827b3dd8fb28 10628 <xun.fu@student.kuleuven.be> 1685017586 +0200	commit: clean code

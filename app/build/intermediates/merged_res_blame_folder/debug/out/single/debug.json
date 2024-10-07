@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_activity_select_activity.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\activity_select_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\drawable_menu_icon.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\drawable\\menu_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\drawable_logoapp.png.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\drawable\\logoapp.png"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\drawable_logout_icon.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\drawable\\logout_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_header.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_activity_preview_edit_task.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\activity_preview_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_confirmation_new_task.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\confirmation_new_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_activity_delete_group.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\activity_delete_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_color_code.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\color_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_task.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\task.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_activity_new_task.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\activity_new_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_task_select.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\task_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_activity_edit_task.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\activity_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_activity_new_group.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\activity_new_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_activity_edit_group.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\activity_edit_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\drawable_pin_png_39474.png.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\drawable\\pin_png_39474.png"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "be.kuleuven.gt.myapplication.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "be.kuleuven.gt.myapplication.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\layout_switch_item.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\layout\\switch_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\10628\\.gradle\\daemon\\7.5\\be.kuleuven.gt.myapplication.app-main-31:\\xml\\data_extraction_rules.xml"
+    }
+]
