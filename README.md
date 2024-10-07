@@ -1,2 +1,2 @@
 # ON-TIFY
-This app was finished by Dario Nucibella and me as a school project
+This app was finished by Dario Nucibella and Xun Fu as a school project
